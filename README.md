@@ -1,1 +1,7 @@
-# Система управления продажами и инвентаризацией
+# Create T3 App
+
+npm install
+
+npm run build
+
+npm run dev
