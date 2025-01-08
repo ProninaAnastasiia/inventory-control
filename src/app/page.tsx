@@ -1,3 +1,5 @@
 export default function Home() {
-  return <h1 className="mb-2 px-4 py-4">Система управления продажами и инвентаризацией</h1>;
+  return (
+    <h1 className="m-4 text-center font-bold">Система управления продажами и инвентаризацией</h1>
+  );
 }
